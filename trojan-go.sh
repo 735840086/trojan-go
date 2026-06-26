@@ -929,7 +929,7 @@ menu() {
     echo -e "#                    ${RED}trojan-go一键部署脚本${PLAIN}                  #"
     echo -e "# ${GREEN}作者${PLAIN}: hhroot #"
     echo -e "# ${GREEN}github地址${PLAIN}: https://github.com/735840086 #"
-    echo -e "# ${GREEN}WeChat${PLAIN}: 735840086 #"
+    echo -e "# ${GREEN}------${PLAIN}: ------ #"
     echo "#############################################################"
     echo ""
     echo -e "  ${GREEN}1.${PLAIN}  安装trojan-go"
