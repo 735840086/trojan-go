@@ -1,6 +1,6 @@
 #!/bin/bash
 # trojan-go一键安装脚本
-# Author: hijk<https://hijk.art>
+# -------------------->
 
 
 RED="\033[31m"      # Error message
@@ -27,7 +27,7 @@ if [[ "$res" != "" ]]; then
     NGINX_CONF_PATH="/www/server/panel/vhost/nginx/"
 fi
 
-# 以下网站是随机从Google上找到的无广告小说网站，不喜欢请改成其他网址，以http或https开头
+# 可改其他网址，以http或https开头
 # 搭建好后无法打开伪装域名，可能是反代小说网站挂了
 SITES=(
 http://www.zhuizishu.com/
